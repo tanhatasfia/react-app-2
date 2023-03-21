@@ -1,6 +1,5 @@
 simple to-do list 
 
-
 used react js
 
 website link : https://clever-mandazi-83d05c.netlify.app/
